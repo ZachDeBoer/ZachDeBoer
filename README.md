@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ZachDeBoer
+- 👀 I’m interested in education, maths, and game design
+- 🌱 I’m currently learning React
+- 📫 How to reach me zach.r.deboer@gmail.com
