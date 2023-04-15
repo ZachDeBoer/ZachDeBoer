@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ZachDeBoer
 - 👀 I’m interested in education, maths, and game design
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React through Vite and TypeScript
 - 📫 How to reach me zach.r.deboer@gmail.com
